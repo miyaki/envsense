@@ -1,0 +1,17 @@
+送付ファイルリスト
+
+envsensor.cmp(部品名パターン)
+
+envsensor.plc(部品面シルクデータ)
+
+envsensor.sol(半田面パターンデータ)
+
+envsensor.stc(部品面レジストデータ)
+
+envsensor.sts(半田面レジストデータ)
+
+envsensor.drd(ドリルデータ)
+
+envsensor.dri(ドリルリスト)
+
+envsensor.out(基板外形データ)
